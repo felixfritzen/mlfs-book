@@ -3,9 +3,9 @@
 This project builds an Air Quality Forecasting Service for an Air Quality sensor available at https://waqi.info/.
 
 
-The output is a forecast for air quality, like this one:
+The output is a forecast for air quality, the image below shows the prediction that we generate for the coming
 
-![Air quality Prediction](https://featurestorebook.github.io/mlfs-book/air-quality/assets/img/pm25_forecast.png)
+![Screenshot](mlfs-book/docs/air-quality/assets/img/pm25_forecast.png)
 
 
 ## Personalized Air Quality Predictions with a LLM
