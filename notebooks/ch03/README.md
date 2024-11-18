@@ -5,7 +5,7 @@ This project builds an Air Quality Forecasting Service for an Air Quality sensor
 
 The output is a forecast for air quality, the image below shows the prediction that we generate for the coming
 
-![Air quality Prediction](https://felixfritzen.github.io/mlfs-book/air-quality/)
+![Air quality Prediction](https://felixfritzen.github.io/mlfs-book/air-quality/pm25_prediction.png)
 
 
 ## Personalized Air Quality Predictions with a LLM
