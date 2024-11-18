@@ -20,7 +20,8 @@ The RAG in this application augments the prompt with:
  * are you in a sensitive group (coming soon).
 
 
-![Personalized Air Quality with LLMs Architecture](personalized-air-quality-with-llms.png)
+![Personalized Air Quality with LLMs Architecture](../../docs/air-quality/assets/img/pm25_hindcast_1day.png)
+
 
 
 ## Application Architecture
